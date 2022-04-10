@@ -12,3 +12,13 @@ Basic Programming for Data Science and Data Visualization : นฤมล ไส�
 
 [Canva](https://github.com/naruemonssp/data_viz_2022/blob/main/Project%20Group.pdf)
   * Present
+
+
+**Final Group**
+
+[Colab](https://github.com/naruemonssp/data_viz_2022/blob/main/Final_DataViz2022.ipynb)
+  * Preprocessing
+  
+  
+[Dashboard Link](https://datastudio.google.com/s/hcyRbdEMrGw)
+  
